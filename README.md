@@ -66,33 +66,6 @@
 | ⛏️ Minecraft Mod | `███████░░░░░` 55% | 做模组、工具和一些有趣的实验 |
 | ⚙️ 工程化实现 | `█████████░░░` 75% | 偏好把点子真正做成稳定系统 |
 
----
-
-## 🗺️ 我的兴趣图谱
-
-```mermaid
-mindmap
-  root((Eros))
-    量化交易
-      事件驱动
-      风险控制
-      自动执行
-      信号研究
-    逆向工程
-      二进制分析
-      协议研究
-      运行时行为
-      系统内部机制
-    Minecraft Mod
-      模组开发
-      工具链
-      玩法实验
-    工程实现
-      后端
-      自动化
-      数据处理
-      系统设计
-```
 
 ---
 
@@ -114,18 +87,6 @@ mindmap
 - ⛏️ Minecraft 相关代码和实验
 - 🧪 一些脑洞很怪但我觉得很有意思的东西
 
----
-
-## 📈 GitHub 数据面板
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🧩 一句话概括自己
 
@@ -135,7 +96,7 @@ mindmap
 
 ## 📫 联系方式
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@sniperrich](https://github.com/sniperrich)
 
 ---
 
